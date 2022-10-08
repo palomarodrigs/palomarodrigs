@@ -1,14 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF9FFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF9FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+<Paloma+Rodrigues+Barbosa/>;I'm+19+years+old;I+from+Brasil,+SP;I+study+front-end+development+at+Rocketseat;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF9FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paloma+Rodrigues+Barbosa;I'm+19+years+old;I+from+Brasil,+SP;I+study+front-end+development+at+Rocketseat;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 <br><br>
 
-<div align="center">
-  <a href="https://github.com/palomarodrigs">
+<div style="display: flex">
+  <a align="center" href="https://github.com/palomarodrigs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomarodrigs&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomarodrigs&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
+
+![Snake animation](https://github.com/palomarodrigs/palomarodrigs/blob/output/github-contribution-grid-snake.svg)
 
 ### Main skills:
 <div style="display: flex">
