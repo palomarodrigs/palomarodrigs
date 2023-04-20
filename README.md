@@ -1,36 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF9FFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc48ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF9FFF&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello,+my+name+is+Paloma+Rodrigues;I'm+19+years+old;I+from+Brasil,+SP;I+study+web+development+at+Rocketseat;Be+Welcome!😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc48ff&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello,+my+name+is+Paloma+Rodrigues;I'm+19+years+old;I+from+Brasil,+SP;I+study+web+development+at+Rocketseat;Be+Welcome!😊)](https://git.io/typing-svg)
 <br>
-<br><br>
+<br>
 
-<div align="center">
-  <a href="https://github.com/palomarodrigs">
-  <img width="45%" "height="180em" src="https://github-readme-stats.vercel.app/api?username=palomarodrigs&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomarodrigs&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palomarodrigs&layout=compact&hide_border=true&theme=material-palenight&card_width=300)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=palomarodrigs&theme=material_palenight)
+![About](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palomarodrigs&theme=material_palenight)
 
 ![Snake animation](https://github.com/palomarodrigs/palomarodrigs/blob/output/github-contribution-grid-snake.svg)
 
 ### Main skills:
-<div style="display: flex">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">       
-</div>
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React.js](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 
 ### Studying in this moment:
-<div style="display: flex">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">                                                                                                                                              
-</div>
-                                                                                                                                                
-
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)                                                                                                                               
 ### Contact:
-<div
- <a href = "mailto:palomarodrigues.0013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paloma-rodrigues-539000233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/palomarodrigs/)
+[![Linkedin](https://skillicons.dev/icons?i=discord)](https://discordapp.com/channels/@me/596814713317359627/)   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF9FFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc48ff&height=120&section=footer"/>
