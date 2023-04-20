@@ -4,9 +4,11 @@
 <br>
 <br>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palomarodrigs&layout=compact&hide_border=true&theme=material-palenight&card_width=300)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=palomarodrigs&theme=material_palenight)
-![About](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palomarodrigs&theme=material_palenight)
+<div align="center">
+<img width="800px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palomarodrigs&theme=material_palenight"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomarodrigs&layout=compact&hide_border=true&theme=material-palenight"/>
+<img width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=palomarodrigs&theme=material_palenight"/>
+</div>
 
 ![Snake animation](https://github.com/palomarodrigs/palomarodrigs/blob/output/github-contribution-grid-snake.svg)
 
